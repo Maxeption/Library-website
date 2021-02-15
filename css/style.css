@@ -1629,7 +1629,7 @@ ul.locat_icon li a{
 }
 .form-control {
     border: #fff solid 1px;
-    border-radius: 30px;
+    border-radius: 0px;
     padding: 15px 20px;
 
     color: #cfcece;
@@ -2083,77 +2083,3 @@ hr.line {
 
     
 }
-
-
-
-
-/* test 
-
-
-
-.eve {
-    margin-top: 50px;
-    margin-bottom: 10px;
-    width: 80%;
-    height: 100%;
-    border-style: solid;
-    float: left;
-    border-width: 10px;
-    border-color: rgb(2, 2, 2);
-}
-
-.imagr {
-    max-width: 350px;
-    margin-right: 16px;
-    float: left;
-    width: 50%;
-}
-
-.p1 {
-    margin-left: 12px;
-    text-align: center;
-    font-size: 40px;
-    padding-top: 40px;
-    float: left;
-    color: black;
-    width: 80%;
-}
-
-.p2 {
-    padding-left: 13px;
-    padding-right: 5px;
-}
-
-.d1 {
-    text-align: center;
-    width: 100%;
-    padding-top: 30px;
-    color: blue;
-    font-size: 90px;
-}
-
-.btnn {
-    float: right;
-    width: 146px;
-    font-size: 17px;
-    padding: 20px 0px;
-    background-color: #81256c;
-    color: #fff;
-    display: inline-block;
-    line-height: 20px;
-    border-radius: 30px;
-    text-align: center;
-    margin-top: 37px;
-    margin-bottom: 37px;
-    margin-right: 37px;
-}
-
-@media screen and (max-width:800px) {
-    .eve {
-        margin-left: -71px;
-        width: 100%;
-    }
-}
-
-
-*/
